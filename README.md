@@ -2,9 +2,7 @@
 ### The most advanced jailbreak tool
 ![unc0ver logo](https://raw.githubusercontent.com/pwn20wndstuff/Undecimus/master/Undecimus/Assets.xcassets/AppIcon.appiconset/Icon-App-60x60%403x.png?token=AlyO4xDujoguob2DCFfUbNI8jO82OyCgks5bx5ZPwA%3D%3D)
 
-unc0ver jailbreak for iOS 11.0 - 11.4b3<br/>
-by [@pwn20wnd](https://twitter.com/Pwn20wnd) & [@sbingner](https://twitter.com/sbingner)<br/>
-UI by [@DennisBednarz](https://twitter.com/DennisBednarz) & [Samg_is_a_Ninja](https://reddit.com/u/Samg_is_a_Ninja)<br/>
+unc0vered by colord3v for iOS 12.0.1<br/>
 
 ## The most outstanding changes over the other jailbreaks
 * All exploits in same app
@@ -18,7 +16,7 @@ UI by [@DennisBednarz](https://twitter.com/DennisBednarz) & [Samg_is_a_Ninja](ht
 * No malware
 * Proper jailbreak state detection
 * Proper bootstrap extraction to fix issues such as Cydia not appearing after jailbreak
-* Native build of Cydia for iOS 11
+* Native build of Cydia for iOS 12.0.1
 * Telesphoreo port for ARM64
 * Much faster Cydia
 * Much more stable Cydia
@@ -77,7 +75,7 @@ UI by [@DennisBednarz](https://twitter.com/DennisBednarz) & [Samg_is_a_Ninja](ht
 ## Getting support
 * Use the built-in diagnostics tool
 * Get technical support on the r/Jailbreak Discord Server
-* Tweet [@pwn20wnd](https://twitter.com/Pwn20wnd)
+* Tweet [colordev](https://twitter.com/twinkpay)
 
 ## Best practices
 * Perform a full restore with Rollectra before switching from the other jailbreaks
@@ -87,18 +85,15 @@ UI by [@DennisBednarz](https://twitter.com/DennisBednarz) & [Samg_is_a_Ninja](ht
 ## Source code
 * This project is completely open source and it will be kept like it in the future
 * Any kind of contribution is welcome
-* The source code can be found on [pwn20wndstuff](https://github.com/pwn20wndstuff)'s GitHub account
-
-## video tutorial
-* <a href="https://youtu.be/TqHYjLHO0zs">https://youtu.be/TqHYjLHO0zs</a>
+* The source code can be found on [colord3v](https://github.com/colord3v)'s GitHub account
 
 ## To Do List
-* Contact [@saurik](https://twitter.com/saurik) to enable the Cydia Store purchases on iOS 11 and remove the empty front page ads in Cydia
+* Contact [@saurik](https://twitter.com/saurik) to enable the Cydia Store purchases on iOS 12 and remove the empty front page ads in Cydia
 * Completely switch to Cydia Substrate and ditch Substitute
 * Make switching from other jailbreaks without wiping the device possible
 * Fix a kernel panic that's triggered by a kernel data abort which is caused by a UaF bug in jailbreakd
 * Chain [@_bazad](https://twitter.com/_bazad)'s [blanket](https://github.com/bazad/blanket) to bypass the developer certificate requirement for multi_path
-* Enable the on-fly entitlement patching on iOS 11
+* Enable the on-fly entitlement patching on iOS 12
 * WebKit Port with [@_niklasb](https://twitter.com/_niklasb)'s [WebKit Exploit](https://github.com/phoenhex/files/tree/master/exploits/ios-11.3.1)
 
 ## Screenshots
